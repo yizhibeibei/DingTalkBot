@@ -1,8 +1,6 @@
 # DingTalkBot
 代码可用性： ![DingTalk_misson](https://github.com/liuyunfz/DingTalkBot/workflows/DingTalk_misson/badge.svg)
 ## 这是什么
-
-
 基于python写的钉钉机器人，通过GitHub Action定时任务实现自动化。
 ## 有什么用
 可以零成本创建属于自己的钉钉机器人，定时推送订阅内容（例如优惠消息等线报亦或是喜欢UP主的更新）；而且完全基于GitHub，也就是说你不需要了解任何编程知识，只需要按照教程稍微部署一下即可获得一个属于自己的钉钉机器人。
